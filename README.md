@@ -1,7 +1,7 @@
 # **AI Projects**
 
 This repository contains these AI projects:
-* **disaster recovery robot simulation** made in in CoppeliaSim
+* **Disaster Recovery Robot Simulation** made in CoppeliaSim
 *  **AI Career Chatbot** designed using Pandorabots and AIML.
 
 ## **Disaster Relief Recovery Robot Simulation**
@@ -28,8 +28,6 @@ This project involved coding a chat bot to assist college students with selectin
 ### **Chatbot Development**
 * Registered on **Pandorabots.com** 
 * Designed chatbot interactions to guide college students on potential career paths using **AIML (Artificial Intelligence Markup Language)**.  
-
-
 
 ### **Machine Learning Proposal**
 This task focused on **proposing a machine learning solution** for a business problem.
