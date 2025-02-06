@@ -38,7 +38,15 @@ This task focused on **proposing a machine learning solution** for a business pr
 - **Sources**: Properly cited all references using mixed citation formats.  
 
 ---
-## **Installation & Setup**
-### **Requirements**
-- **CoppeliaSim** (for robot simulation)  
-- **Pandorabots** (for chatbot)  
+### User Guide
+#### **Installation & Setup**
+#### **Software Requirements**
+- **CoppeliaSim** (for robot simulation). Download from https://www.coppeliarobotics.com/.
+- **Pandorabots** (for chatbot). Go to this website: https://home.pandorabots.com/home.html.
+#### How to Run the Code
+1. Install and open CoppeliaSim
+2. Open file: ai-disaster-recovery-bot.ttt
+3. Click run to watch the disaster recovery simulation and view the heat signature detection.
+
+4. Go to Pandorabots.com and create an account.
+5. Open file: 
