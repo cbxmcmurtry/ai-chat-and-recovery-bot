@@ -49,4 +49,4 @@ This task focused on **proposing a machine learning solution** for a business pr
 3. Click run to watch the disaster recovery simulation and view the heat signature detection.
 
 4. Go to Pandorabots.com and create an account.
-5. Open file: 
+5. Download, unzip, and import the Pandorabot files to run the Career Advice bot.
