@@ -1,4 +1,4 @@
-# **AI Career Chatbot & Disaster Relief Recovery Robot Simulation Projects**
+# **AI Projects**
 
 This repository contains these AI projects:
 * **disaster recovery robot simulation** made in in CoppeliaSim
